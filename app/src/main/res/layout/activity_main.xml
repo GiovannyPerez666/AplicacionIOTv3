@@ -1,0 +1,24 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Otros elementos de la interfaz -->
+
+    <Button
+        android:id="@+id/startGameButton"
+        android:layout_width="91dp"
+        android:layout_height="102dp"
+        android:text="Iniciar Juego"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <!-- Otros elementos de la interfaz -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>

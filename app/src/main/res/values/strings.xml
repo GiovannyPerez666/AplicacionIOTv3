@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Juegos De Mesa</string>
+
+    <string-array name="spinner_items1">
+        <item>Pizza</item>
+        <item>COMPLETO</item>
+        <item>Sushi</item>
+        <item>SushiBurger</item>
+        <item>Big MAC</item>
+    </string-array>
+
+    <string name="default_web_client_id">422718690374-grghc558ndkti3o48j6q8vgvk4j8fm34.apps.googleusercontent.com</string>
+
+</resources>

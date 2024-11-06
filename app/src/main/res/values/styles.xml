@@ -1,0 +1,5 @@
+<resources>
+    <style name="SpinnerTextStyle" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">#FFFFFF</item> <!-- Texto en blanco -->
+    </style>
+</resources>

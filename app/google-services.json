@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422718690374",
+    "project_id": "juegodemesa-5489a",
+    "storage_bucket": "juegodemesa-5489a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422718690374:android:3589d1a9c21b787932e647",
+        "android_client_info": {
+          "package_name": "com.juego.juegodemesa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpW3JjyjCIuzWbuATF12VMNaqH8aVCA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
